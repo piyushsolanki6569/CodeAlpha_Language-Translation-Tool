@@ -1,0 +1,6 @@
+{
+  "name": "Language Translation Tool",
+  "description": "Real-time AI language translation powered by Google Gemini with speech synthesis, language swapping, copy, and clear tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
